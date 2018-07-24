@@ -13,16 +13,13 @@ First line is N: numbers of jobs
 
 M next lines are names of employees
 
-Eg.
+A sample of an "input.txt":
 
-> 52658
-
-> John
-
-> Tom
-
-> Mitchell
-
-> Elon Musk
-
-> Bill Gates
+```
+52658
+John
+Tom
+Mitchell
+Elon Musk
+Bill Gates
+```
