@@ -3,9 +3,7 @@ These tools help automate some small tasks
 
 ## Assign Jobs
 
-[Source]()
-
-[Download binary]()
+[Download](https://github.com/scorta/Utilities/releases/tag/0.1)
 
 This tool help divide N jobs to M employees.
 
